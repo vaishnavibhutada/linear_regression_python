@@ -17,7 +17,7 @@ This repository demonstrates the implementation of Linear Regression in Python u
 
 # Clone the repository:
 
-git clone https://vaishnavibhutada/linear_regression_python.git
+git clone https://github.com/vaishnavibhutada/linear_regression_python.git
 cd linear_regression_python
 
 # Install dependencies:
